@@ -24,7 +24,7 @@ leejiwon813@naver.com <br><br><br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">&nbsp;<br>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/aws-EF2D5E?style=for-the-badge&logo=Amazon aws&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/typeScript-EF2D5E?style=for-the-badge&logo=typeScript&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/react-007ACC?style=for-the-badge&logo=React&logoColor=white"></div>
 
